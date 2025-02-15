@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedido>
+  <NumeroPedido>1</NumeroPedido>
+  <Cliente>Raíssa</Cliente>
+  <DataPedido>2025-02-15 19:22:46</DataPedido>
+  <TotalPedido>R$ 17,50</TotalPedido>
+  <Observação>Quero com bbq</Observação>
+  <Itens>
+    <Item>
+      <NumeroItem>1</NumeroItem>
+      <Descricao>X-Humildade </Descricao>
+      <Quantidade>2</Quantidade>
+      <PrecoUnitario>R$ 05,00</PrecoUnitario>
+      <Total>R$ 10,00</Total>
+    </Item>
+    <Item>
+      <NumeroItem>Condi</NumeroItem>
+      <Descricao>Molho BBQ</Descricao>
+      <Quantidade />
+      <PrecoUnitario />
+      <Total />
+    </Item>
+    <Item>
+      <NumeroItem>Bebi</NumeroItem>
+      <Descricao>c/ Suco</Descricao>
+      <Quantidade />
+      <PrecoUnitario />
+      <Total />
+    </Item>
+  </Itens>
+</Pedido>

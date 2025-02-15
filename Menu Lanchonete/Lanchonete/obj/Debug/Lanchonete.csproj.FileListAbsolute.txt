@@ -1,0 +1,50 @@
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.FormLanchonete.resources
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\LabInfo\source\repos\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.FormLanchonete.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.FormLanchonete.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 1\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.FormLanchonete.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\LabInfo\Downloads\Lanchonete_Solucao 2\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.FormLanchonete.resources
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\Pinheiro\Downloads\Lanchonete 2\Lanchonete\obj\Debug\Lanchonete.pdb

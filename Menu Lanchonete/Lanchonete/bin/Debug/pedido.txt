@@ -1,0 +1,25 @@
+Pedido nº 1
+Nome do Cliente: Raíssa
+Obs: Quero com bbq
+Data do Pedido: 2025-02-15 19:22:46
+
+Itens:
+
+Número: 1
+Descrição: X-Humildade 
+Quantidade: 2
+Preço Unitário: R$ 05,00
+Total: R$ 10,00
+
+Número: Condi
+Descrição: Molho BBQ
+Quantidade: 
+Preço Unitário: 
+Total: 
+
+Número: Bebi
+Descrição: c/ Suco
+Quantidade: 
+Preço Unitário: 
+Total: 
+
